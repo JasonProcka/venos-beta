@@ -1,0 +1,18 @@
+.UserMenu-wrap {
+  display: inline-block;
+  float: right;
+  height: 50px;
+}
+
+.user-icon {
+  height: 34px;
+  width: 34px;
+  margin-top: 8px;
+  border: 0;
+  border-radius: 50%;
+  vertical-align: middle;
+  background-image: url('https://assets.entrepreneur.com/content/16x9/822/20150406145944-dos-donts-taking-perfect-linkedin-profile-picture-selfie-mobile-camera-2.jpeg');
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 3px 10px rgba(0,0,0,.2);
+}

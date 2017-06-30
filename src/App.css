@@ -1,0 +1,19 @@
+html {
+  height: 100vh;
+}
+
+.App {
+
+}
+
+.App-pages-card {
+  height: calc(100vh - 50px);
+  max-width: 960px;
+  margin: 0 auto;
+  display: block;
+  background-color: #FFF;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  box-shadow: 0 3px 10px rgba(0,0,0,.2);
+  /* overflow-y: scroll; */
+}
