@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // Styles
 import './Home.css';
 // Components
-import ConnectHandler from '../ConnectHandler/ConnectHandler';
+import ConnectHandler from '../../components/ConnectHandler/ConnectHandler';
 
 class Home extends Component {
   render() {
